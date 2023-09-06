@@ -6,3 +6,5 @@ let gitty = document.getElementById("gitty")
 gitty.addEventListener("click", () => {
   helloGitty()
 })
+
+// ...
